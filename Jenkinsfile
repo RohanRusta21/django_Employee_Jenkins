@@ -1,7 +1,7 @@
 pipeline {
     agent any
     environment {
-        registery = "public.ecr.aws/w1u8s8d4/django_employee"
+        registery = "public.ecr.aws/w1u8s8d4/django"
     }
 
     stages {

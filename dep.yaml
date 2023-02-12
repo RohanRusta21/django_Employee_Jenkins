@@ -15,7 +15,7 @@ spec:
         app: django-employee
     spec:
       containers:
-      - image: public.ecr.aws/w1u8s8d4/django_employee
+      - image: public.ecr.aws/w1u8s8d4/django
         name: django-employee
         ports:
         - containerPort: 8000

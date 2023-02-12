@@ -8,6 +8,11 @@ apt install python3
 pip install django
 ```
 
+# jenkins command
+```
+sudo usermod -a -G docker jenkins
+```
+
 # Project Video
 
 https://user-images.githubusercontent.com/108226778/215683393-2cc2f7ca-ebc9-4f7e-94e4-7203d8c0fd6a.mp4
